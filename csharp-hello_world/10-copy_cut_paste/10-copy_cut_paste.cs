@@ -3,7 +3,6 @@
 class Program
 {
         static void Main(string[] args)
-
         {
 		string word = "Holberton";
         string word_first_3 = word.Substring(0,3);
