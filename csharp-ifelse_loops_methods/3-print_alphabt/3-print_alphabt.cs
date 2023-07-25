@@ -8,7 +8,7 @@ class Program
         {
             if (letter == 'e' || letter == 'q')
             {
-                Console.Write("");
+            
             }
 
             else
