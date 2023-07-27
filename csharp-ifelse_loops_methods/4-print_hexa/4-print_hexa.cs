@@ -9,7 +9,7 @@ namespace _4_print_hexa
             for (int i = 0; i <= 98; i++)
 
                 {
-                    string hex = i.ToString("X");
+                    string hex = i.ToString("x");
                     Console.Write(i + " = " + "0x"+hex + "\n");
                 }
 
