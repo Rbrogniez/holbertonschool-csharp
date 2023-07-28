@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.deps.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.dll
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.pdb
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.dll
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.pdb
