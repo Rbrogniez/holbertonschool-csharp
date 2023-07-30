@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.deps.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.dll
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/bin/Debug/netcoreapp2.1/11-print_diagonal.pdb
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.dll
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/11-print_diagonal/obj/Debug/netcoreapp2.1/11-print_diagonal.pdb
