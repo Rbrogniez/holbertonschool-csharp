@@ -18,13 +18,15 @@ using System.Collections.Generic;
         {
             if (i == array.Length - 1)
             {
-                Console.Write("\n");
+                Console.Write(array[i]);
             }
             else
             {
                 Console.Write(array[i]+" ");
             }
+
         }
+                Console.Write("\n");
         }
 
 
