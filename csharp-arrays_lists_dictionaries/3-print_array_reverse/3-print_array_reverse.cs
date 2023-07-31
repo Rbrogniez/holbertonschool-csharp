@@ -16,10 +16,17 @@ using System.Collections.Generic;
         System.Array.Reverse(array);
         for (int i = 0; i < array.Length; i++)
         {
-            Console.Write(array[i]+"  ");
+            if (i == array.Length - 1)
+            {
+                Console.Write("\n");
+            }
+            else
+            {
+                Console.Write(array[i]+" ");
+            }
         }
         }
-        Console.Write("\n");
+
 
         }
     }
