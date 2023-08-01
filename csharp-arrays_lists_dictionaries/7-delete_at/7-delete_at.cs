@@ -15,12 +15,12 @@ class List
         {
             for (int i = 0; i < myList.Count; i++)
             {
-                if (myList[i] == index)
+                if (i == index)
                 {
-                    myList.Remove(myList[i+1]);
+                    myList.Remove(myList[i]);
                 }
             }
+            return myList;
         }
-        return myList;
     }
 }
