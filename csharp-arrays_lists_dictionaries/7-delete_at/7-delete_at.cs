@@ -18,7 +18,8 @@ class List
 
             if (myList[i] == index)
             {
-                myList.RemoveAt(i+1);
+                myList.Remove(i+1);
+
             }
         }
         }
