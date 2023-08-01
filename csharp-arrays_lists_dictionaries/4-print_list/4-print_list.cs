@@ -6,7 +6,7 @@ class List
     public static List<int> CreatePrint(int size)
     {
         List<int> mylist;
-        
+
         if (size < 0)
         {
             Console.Write("Size cannot be negative");
@@ -23,7 +23,15 @@ class List
 
         for (int i = 0; i < mylist.Count; i++)
         {
+            if (i == mylist.Count - 1)
+            {
+                Console.Write(mylist[i]);
+            }
+
+            else
+            {
             Console.Write(mylist[i]+" ");
+            }
         }
         }
         Console.WriteLine();
