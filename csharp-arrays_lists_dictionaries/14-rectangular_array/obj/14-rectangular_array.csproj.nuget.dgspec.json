@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array.cs/14-rectangular_array.cs.csproj": {}
+    "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj": {}
   },
   "projects": {
-    "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array.cs/14-rectangular_array.cs.csproj": {
+    "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array.cs/14-rectangular_array.cs.csproj",
-        "projectName": "14-rectangular_array.cs",
-        "projectPath": "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array.cs/14-rectangular_array.cs.csproj",
+        "projectUniqueName": "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj",
+        "projectName": "14-rectangular_array",
+        "projectPath": "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj",
         "packagesPath": "/home/romain/.nuget/packages/",
-        "outputPath": "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array.cs/obj/",
+        "outputPath": "/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/home/romain/dotnet/sdk/NuGetFallbackFolder"

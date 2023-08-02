@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "14-rectangular_array.cs/1.0.0": {
+      "14-rectangular_array/1.0.0": {
         "runtime": {
-          "14-rectangular_array.cs.dll": {}
+          "14-rectangular_array.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "14-rectangular_array.cs/1.0.0": {
+    "14-rectangular_array/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
