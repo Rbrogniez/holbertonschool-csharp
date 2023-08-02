@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.deps.json
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.dll
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.pdb
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.dll
+/home/romain/holbertonschool-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.pdb
