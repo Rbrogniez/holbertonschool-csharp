@@ -13,7 +13,7 @@ public static class Array
                 {
                     Console.Write($"{Matrice[i,j]} ");
                 }
-                Console.Write("\n");
+            Console.WriteLine();
          }
     }
 }
