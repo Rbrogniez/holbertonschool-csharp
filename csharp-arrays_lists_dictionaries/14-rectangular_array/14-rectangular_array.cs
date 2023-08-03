@@ -11,9 +11,15 @@ public static class Array
          {
             for (int j=0; j<Matrice.GetLength(1); j++)
                 {
-                    Console.Write($"{Matrice[i,j]} ");
+                    if (Matrice.GetLength(1) - 1 == j)
+                    {
+                        Console.WriteLine($"{Matrice[i,j]}");
+                    }
+                    else
+                    {
+                        Console.Write($"{Matrice[i,j]} ");
+                    }
                 }
-            Console.WriteLine();
          }
     }
 }
