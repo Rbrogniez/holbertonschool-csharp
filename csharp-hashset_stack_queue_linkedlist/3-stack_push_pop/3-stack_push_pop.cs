@@ -9,11 +9,7 @@ class MyStack
 
         Stack<string> tempStack = new Stack<string>(aStack);
 
-        int NumberItem = 0;
-        for(NumberItem = 0; NumberItem < tempStack.Count; NumberItem++)
-        {
-            tempStack.Pop();
-        }
+        int NumberItem = aStack.Count;
         Console.WriteLine("Number of items: "+ NumberItem);
 
         if(aStack.Count > 0)
