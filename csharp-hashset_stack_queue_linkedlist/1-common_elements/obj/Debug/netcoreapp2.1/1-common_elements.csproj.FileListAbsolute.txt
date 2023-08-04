@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.deps.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/netcoreapp2.1/1-common_elements.pdb
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/netcoreapp2.1/1-common_elements.pdb
