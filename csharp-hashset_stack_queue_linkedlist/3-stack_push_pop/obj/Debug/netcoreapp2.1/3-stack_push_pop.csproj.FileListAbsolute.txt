@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/netcoreapp2.1/3-stack_push_pop.deps.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/netcoreapp2.1/3-stack_push_pop.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/netcoreapp2.1/3-stack_push_pop.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/netcoreapp2.1/3-stack_push_pop.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/bin/Debug/netcoreapp2.1/3-stack_push_pop.pdb
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/netcoreapp2.1/3-stack_push_pop.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/netcoreapp2.1/3-stack_push_pop.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/netcoreapp2.1/3-stack_push_pop.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/netcoreapp2.1/3-stack_push_pop.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/netcoreapp2.1/3-stack_push_pop.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/obj/Debug/netcoreapp2.1/3-stack_push_pop.pdb
