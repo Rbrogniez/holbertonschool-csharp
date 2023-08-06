@@ -8,7 +8,7 @@ class Program
     {
         LinkedList<int> myLList = new LinkedList<int>();
 
-        myLList.AddLast(11);
+        myLList.AddLast();
         myLList.AddLast(3);
         myLList.AddLast(-9);
         myLList.AddLast(47);
