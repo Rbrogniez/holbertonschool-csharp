@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.deps.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.pdb
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.pdb
