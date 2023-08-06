@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.deps.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
