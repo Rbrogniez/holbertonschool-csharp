@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.deps.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.pdb
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.pdb
