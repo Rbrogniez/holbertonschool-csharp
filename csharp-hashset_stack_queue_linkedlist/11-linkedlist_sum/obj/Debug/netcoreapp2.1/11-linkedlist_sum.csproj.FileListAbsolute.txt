@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.deps.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.pdb
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.dll
+/home/romain/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.pdb
