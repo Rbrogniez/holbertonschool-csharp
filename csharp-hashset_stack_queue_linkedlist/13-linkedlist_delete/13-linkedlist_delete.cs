@@ -7,15 +7,18 @@ class LList
     {
         if (index < 0 || index >= myLList.Count)
         {
-            throw new ArgumentOutOfRangeException(nameof(index), "Index is out of range.");
+            throw new ArgumentOutOfRangeException(nameof(index), "Invalid index");
         }
 
-        LinkedListNode<int> currentNode = myLList.First;
-        for (int i = 0; i < index; i++)
+        LinkedListNode<int> current = myLList.First;
+        int currentIndex = 0;
+
+        while (currentIndex < index)
         {
-            currentNode = currentNode.Next;
+            current = current.Next;
+            currentIndex++;
         }
 
-        myLList.Remove(currentNode);
+        myLList.Remove(current);
     }
 }
