@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.deps.json
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.dll
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.pdb
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.dll
+/home/romain/holbertonschool-csharp/csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.pdb
