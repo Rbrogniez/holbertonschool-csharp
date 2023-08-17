@@ -27,7 +27,7 @@ public struct Dog
         return $"Dog Name: {name}\n" +
         $"Age: {age}\n" +
         $"Owner: {owner}\n" +
-        $"Rating {rating}";
+        $"Rating {rating}\n";
     }
 }
 
