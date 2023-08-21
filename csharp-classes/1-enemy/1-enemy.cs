@@ -12,7 +12,6 @@ namespace Enemies
         /// Public constructor to initialize the Zombie object with default values.
         public Zombie()
         {
-            /// Set value of health
             health = 0;
         }
     }
