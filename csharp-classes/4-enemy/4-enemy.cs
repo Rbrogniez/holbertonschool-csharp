@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+
 
 namespace Enemies
 {
@@ -10,11 +10,11 @@ namespace Enemies
         private int health;
         private string name = "(No name)";
 
-        /// creat 
-        public Name()
+        /// private field to store the Name of the Zombie
+        public string Name
         {
-            get { return name;}
-            set { name = value;}
+            get { return name; }
+            set { name = value; }
         }
         /// Public constructor to initialize the Zombie object with default values.
         public Zombie()
