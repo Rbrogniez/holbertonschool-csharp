@@ -1,0 +1,12 @@
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/netcoreapp2.1/2-enemy.deps.json
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/netcoreapp2.1/2-enemy.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/netcoreapp2.1/2-enemy.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/netcoreapp2.1/2-enemy.dll
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/netcoreapp2.1/2-enemy.pdb
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.dll
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.pdb
+/home/romain/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/netcoreapp2.1/2-enemy.xml
