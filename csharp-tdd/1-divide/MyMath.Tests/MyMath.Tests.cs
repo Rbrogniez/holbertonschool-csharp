@@ -53,5 +53,12 @@ namespace MyMath.Tests
             Assert.AreEqual(Matrix.Divide(new int[,] {{10,20},{20,40}},0),null);
         }
 
+        [Test]
+
+        public void Test5()
+        {
+            Assert.AreEqual(Matrix.Divide(null,2),null);
+        }
+
     }
 }
