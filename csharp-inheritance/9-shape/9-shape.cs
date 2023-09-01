@@ -65,7 +65,7 @@ public class Square : Rectangle
         get { return size; }
         set
         {
-            if (size < 0)
+            if (value < 0)
             {
                 throw new ArgumentException("Size must be greater than or equal to 0");
             }
@@ -76,13 +76,6 @@ public class Square : Rectangle
             Height = value;
         }
     }
-
-     /// Constructor to initialize the size
-    public Square(int size) : base(size, size)
-    {
-        Size = size; /// Use the property to set size, which validates the value.
-    }
-
     /// Override the ToString() method to provide a custom string representation
     public override string ToString()
     {
