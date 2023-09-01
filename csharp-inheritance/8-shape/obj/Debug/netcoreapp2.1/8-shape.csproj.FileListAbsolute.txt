@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.deps.json
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.dll
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/netcoreapp2.1/8-shape.pdb
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.dll
+/home/romain/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/netcoreapp2.1/8-shape.pdb
