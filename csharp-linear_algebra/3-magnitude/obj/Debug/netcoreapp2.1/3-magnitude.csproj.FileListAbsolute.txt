@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/netcoreapp2.1/3-magnitude.deps.json
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/netcoreapp2.1/3-magnitude.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/netcoreapp2.1/3-magnitude.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/netcoreapp2.1/3-magnitude.dll
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/netcoreapp2.1/3-magnitude.pdb
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/netcoreapp2.1/3-magnitude.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/netcoreapp2.1/3-magnitude.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/netcoreapp2.1/3-magnitude.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/netcoreapp2.1/3-magnitude.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/netcoreapp2.1/3-magnitude.dll
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/netcoreapp2.1/3-magnitude.pdb
