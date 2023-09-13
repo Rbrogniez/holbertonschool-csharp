@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.deps.json
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.dll
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/netcoreapp2.1/12-dot_product.pdb
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.dll
+/home/romain/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/netcoreapp2.1/12-dot_product.pdb
