@@ -24,17 +24,17 @@ public class VectorMath
 
     }
 
-    public static void Main()
-    {
-        // Test cases
-        double[] vector1 = { 27.0, 39.0 }; // 3D vector
-        double[] vector2 = { 4.0, 5.0, 6.0 }; // 3D vector
-        double[] result = Add(vector1, vector2);
-
-        Console.WriteLine("Resultant Vector:");
-        foreach (var value in result)
-        {
-            Console.WriteLine(value);
-        }
-    }
+   // public static void Main()
+   // {
+   //     // Test cases
+   //     double[] vector1 = { 27.0, 39.0 }; // 3D vector
+   //     double[] vector2 = { 4.0, 5.0, 6.0 }; // 3D vector
+   //     double[] result = Add(vector1, vector2);
+    //
+   //     Console.WriteLine("Resultant Vector:");
+   //     foreach (var value in result)
+   //     {
+   //         Console.WriteLine(value);
+   //     }
+   // }
 }
