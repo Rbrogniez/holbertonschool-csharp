@@ -7,7 +7,7 @@ class MatrixMath
     {
         if(matrix.GetLength(0) != matrix.GetLength(1))
         {
-            return new double[1,1] { -1 };
+            return new double[1,1] {{-1}};
         }
         else
         {
@@ -15,12 +15,13 @@ class MatrixMath
 
             for(int i = 0; i < matrix.GetLength(0); i++)
             {
-                for(int j = 0; j < matrix.GetLength(1);)
+                for(int j = 0; j < matrix.GetLength(1); j++)
                 {
                     result[i,j] = matrix[i,j] * scalar;
                 }
 
             }
+            return result;
         }
     }
 
