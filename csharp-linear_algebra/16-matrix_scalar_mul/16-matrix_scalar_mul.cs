@@ -7,7 +7,7 @@ class MatrixMath
     public static double[,] MultiplyScalar(double[,] matrix, double scalar)
     {
         // Vérifie si la matrice n'est pas carrée.
-        if(matrix.GetLength(0) != matrix.GetLength(1))
+        if(matrix.GetLength(0) != matrix.GetLength(1) || matrix.GetLength(0) < 2 || matrix.GetLength(0) > 3)
         {
             // Renvoie une nouvelle matrice 1x1 avec la valeur -1 pour indiquer une erreur.
             return new double[1,1] {{-1}};
