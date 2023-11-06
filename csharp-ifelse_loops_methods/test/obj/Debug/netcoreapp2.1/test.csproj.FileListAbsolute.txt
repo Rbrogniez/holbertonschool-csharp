@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/bin/Debug/netcoreapp2.1/test.deps.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/bin/Debug/netcoreapp2.1/test.dll
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/bin/Debug/netcoreapp2.1/test.pdb
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/obj/Debug/netcoreapp2.1/test.dll
+/home/romain/holbertonschool-csharp/csharp-ifelse_loops_methods/test/obj/Debug/netcoreapp2.1/test.pdb

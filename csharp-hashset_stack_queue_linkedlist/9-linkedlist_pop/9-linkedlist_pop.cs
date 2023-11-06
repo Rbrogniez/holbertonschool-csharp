@@ -5,15 +5,14 @@ class LList
 {
     public static int Pop(LinkedList<int> myLList)
     {
-        if (myLList.Count == 0)
+        if (myLList.Count == null)
         {
             return 0;
         }
         else
         {
-            int headValue = myLList.First.Value;
-            myLList.RemoveFirst();
-            return headValue;
+        LinkedListNode<int> firstNode = myLList.First;
+        return firstNode.Value;
         }
     }
 }

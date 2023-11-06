@@ -13,6 +13,9 @@
         "packagesPath": "/home/romain/.nuget/packages/",
         "outputPath": "/home/romain/holbertonschool-csharp/csharp-hello_world/3-writeline/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/home/romain/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/home/romain/.nuget/NuGet/NuGet.Config"
         ],
@@ -24,7 +27,6 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -36,27 +38,18 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/216/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
