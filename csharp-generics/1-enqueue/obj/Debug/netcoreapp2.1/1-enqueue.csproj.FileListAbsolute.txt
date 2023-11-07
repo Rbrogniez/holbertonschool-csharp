@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/netcoreapp2.1/1-enqueue.deps.json
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/netcoreapp2.1/1-enqueue.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/netcoreapp2.1/1-enqueue.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/netcoreapp2.1/1-enqueue.dll
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/netcoreapp2.1/1-enqueue.pdb
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.dll
+/home/romain/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/netcoreapp2.1/1-enqueue.pdb
