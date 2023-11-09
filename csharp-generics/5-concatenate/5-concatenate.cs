@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 public class Queue<T>
 {
@@ -98,14 +99,21 @@ public class Queue<T>
         }
 
         Node current = head;
-        string result = "";
+        StringBuilder result = new StringBuilder();
 
         while (current != null)
         {
-            result += current.value.ToString();
+            result.Append(current.value.ToString());
+
+            // Add a space if there is another element in the queue
+            if (current.next != null)
+            {
+                result.Append(" ");
+            }
+
             current = current.next;
         }
 
-        return result;
+        return result.ToString();
     }
 }
