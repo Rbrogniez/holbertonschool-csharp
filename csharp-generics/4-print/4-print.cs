@@ -73,10 +73,9 @@ public class Queue<T>
         Node current = head;
         while (current != null)
         {
-            Console.Write($"{current.value} ");
+            Console.WriteLine($"{current.value}");
             current = current.next;
         }
-        Console.WriteLine();
     }
 
     public int Count()
