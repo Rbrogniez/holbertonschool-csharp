@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 public class Queue<T>
 {
@@ -74,10 +73,14 @@ public class Queue<T>
         Node current = head;
         while (current != null)
         {
-            Console.Write($"{current.value} ");
+            Console.WriteLine($"{current.value}");
             current = current.next;
         }
-        Console.WriteLine();
+    }
+
+    public int Count()
+    {
+        return count;
     }
 
     public string Concatenate()
@@ -94,19 +97,15 @@ public class Queue<T>
             return null;
         }
 
-        StringBuilder result = new StringBuilder();
         Node current = head;
+        string result = "";
+
         while (current != null)
         {
-            result.Append(current.value);
+            result += current.value.ToString();
             current = current.next;
         }
 
-        return result.ToString();
-    }
-
-    public int Count()
-    {
-        return count;
+        return result;
     }
 }
