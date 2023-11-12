@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.deps.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.dll
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/netcoreapp2.1/3-decorations.pdb
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.dll
+/home/romain/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/netcoreapp2.1/3-decorations.pdb
