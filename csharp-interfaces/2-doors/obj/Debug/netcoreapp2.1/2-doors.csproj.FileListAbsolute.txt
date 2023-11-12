@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.deps.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.dll
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/netcoreapp2.1/2-doors.pdb
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.dll
+/home/romain/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/netcoreapp2.1/2-doors.pdb
