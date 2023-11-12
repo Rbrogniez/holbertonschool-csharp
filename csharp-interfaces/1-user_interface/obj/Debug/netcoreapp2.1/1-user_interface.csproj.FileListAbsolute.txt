@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.deps.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.dll
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/netcoreapp2.1/1-user_interface.pdb
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.dll
+/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.pdb

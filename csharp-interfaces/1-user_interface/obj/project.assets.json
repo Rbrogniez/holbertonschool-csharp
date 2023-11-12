@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/romain/holbertonschool-csharp/csharp-interfaces/1-user-interface/1-user-interface.csproj",
-      "projectName": "1-user-interface",
-      "projectPath": "/home/romain/holbertonschool-csharp/csharp-interfaces/1-user-interface/1-user-interface.csproj",
+      "projectUniqueName": "/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/1-user_interface.csproj",
+      "projectName": "1-user_interface",
+      "projectPath": "/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/1-user_interface.csproj",
       "packagesPath": "/home/romain/.nuget/packages/",
-      "outputPath": "/home/romain/holbertonschool-csharp/csharp-interfaces/1-user-interface/obj/",
+      "outputPath": "/home/romain/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/home/romain/dotnet/sdk/NuGetFallbackFolder"
