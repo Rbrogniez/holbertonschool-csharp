@@ -31,34 +31,25 @@ public abstract class Base
 // Define the TestObject class that inherits from Base and implements all three interfaces
 public class TestObject : Base, IInteractive, IBreakable, ICollectable
 {
+    // Properties with traditional get and set methods
+    public int Durability { get; set; }
+    public bool IsCollected { get; set; }
+
     // Explicitly implement IInteractive interface
-    void IInteractive.Interact()
+    public void Interact()
     {
         // Implementation goes here
     }
 
     // Explicitly implement IBreakable interface
-    int IBreakable.Durability { get; set; }
-    void IBreakable.Break()
+    public void Break()
     {
         // Implementation goes here
     }
 
     // Explicitly implement ICollectable interface
-    bool ICollectable.IsCollected { get; set; }
-    void ICollectable.Collect()
-    {
-        // Implementation goes here
-    }
-
-    // Additional methods and properties
-    public void Break()
-    {
-        ((IBreakable)this).Break();
-    }
-
     public void Collect()
     {
-        ((ICollectable)this).Collect();
+        // Implementation goes here
     }
 }
