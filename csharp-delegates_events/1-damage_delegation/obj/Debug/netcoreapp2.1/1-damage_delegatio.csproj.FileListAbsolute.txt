@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/bin/Debug/netcoreapp2.1/1-damage_delegatio.deps.json
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/bin/Debug/netcoreapp2.1/1-damage_delegatio.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/bin/Debug/netcoreapp2.1/1-damage_delegatio.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/bin/Debug/netcoreapp2.1/1-damage_delegatio.dll
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/bin/Debug/netcoreapp2.1/1-damage_delegatio.pdb
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/obj/Debug/netcoreapp2.1/1-damage_delegatio.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/obj/Debug/netcoreapp2.1/1-damage_delegatio.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/obj/Debug/netcoreapp2.1/1-damage_delegatio.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/obj/Debug/netcoreapp2.1/1-damage_delegatio.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/obj/Debug/netcoreapp2.1/1-damage_delegatio.dll
+/home/romain/holbertonschool-csharp/csharp-delegates_events/1-damage_delegatio/obj/Debug/netcoreapp2.1/1-damage_delegatio.pdb
