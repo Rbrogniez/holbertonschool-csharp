@@ -147,10 +147,6 @@ public class Player
         {
             Console.WriteLine("Health has reached zero!");
         }
-        else
-        {
-            Console.WriteLine("Health is low!");
-        }
     }
 
     // New method to check health status and set up HPCheck event handler
