@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventfu/5-eventfu.csproj",
-      "projectName": "5-eventfu",
-      "projectPath": "/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventfu/5-eventfu.csproj",
+      "projectUniqueName": "/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/5-eventful.csproj",
+      "projectName": "5-eventful",
+      "projectPath": "/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/5-eventful.csproj",
       "packagesPath": "/home/romain/.nuget/packages/",
-      "outputPath": "/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventfu/obj/",
+      "outputPath": "/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/home/romain/dotnet/sdk/NuGetFallbackFolder"

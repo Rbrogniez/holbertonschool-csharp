@@ -29,6 +29,7 @@ public class Player
     private string status;
 
     public delegate void CalculateHealth(float amount);
+
     public event HPCheckEventHandler HPCheck;
 
     public Player(string name = "Player", float maxHp = 100f)
@@ -47,14 +48,15 @@ public class Player
         this.hp = this.maxHp;
         this.status = $"{name} is ready to go!";
 
-        // Assign OnCheckStatus to the HPCheck EventHandler
-        OnCheckStatus(new CurrentHPArgs(hp));
+        OnCheckStatus(); // Call OnCheckStatus to set up HPCheck event handler
+
+        this.HPCheck += CheckStatus;
+        this.HPCheck += HPValueWarning; // Add HPValueWarning to the event handler list
     }
 
     public void ValidateHP()
     {
-        // Trigger the OnCheckStatus method with the current health
-        OnCheckStatus(new CurrentHPArgs(hp));
+        OnCheckStatus(); // Call OnCheckStatus instead of HPCheck directly
     }
 
     public float ApplyModifier(float baseValue, Modifier modifier)
@@ -91,8 +93,7 @@ public class Player
             hp = 0;
         }
 
-        // Trigger the OnCheckStatus method with the updated health after taking damage
-        OnCheckStatus(new CurrentHPArgs(hp));
+        OnCheckStatus(); // Call OnCheckStatus after taking damage
     }
 
     public void HealDamage(float heal)
@@ -109,8 +110,7 @@ public class Player
             hp = maxHp;
         }
 
-        // Trigger the OnCheckStatus method with the updated health after healing
-        OnCheckStatus(new CurrentHPArgs(hp));
+        OnCheckStatus(); // Call OnCheckStatus after healing
     }
 
     private void CheckStatus(object sender, CurrentHPArgs e)
@@ -145,27 +145,27 @@ public class Player
     {
         if (e.CurrentHp == 0)
         {
-            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Health has reached zero!");
-            Console.ResetColor();
         }
         else
         {
-            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Health is low!");
-            Console.ResetColor();
         }
     }
 
-    private void OnCheckStatus(CurrentHPArgs e)
+    // New method to check health status and set up HPCheck event handler
+    private void OnCheckStatus()
     {
-        // Assign HPValueWarning to the HPCheck EventHandler if necessary
-        if (e.CurrentHp < maxHp / 4)
+        CurrentHPArgs args = new CurrentHPArgs(hp);
+
+        // Check if currentHp is less than 1/4 of maxHp
+        if (args.CurrentHp < maxHp / 4)
         {
+            // Assign HPValueWarning to the HPCheck EventHandler
             this.HPCheck += HPValueWarning;
         }
 
-        // Trigger the HPCheck event with the Player object and e
-        HPCheck?.Invoke(this, e);
+        // Call HPCheck with the Player object and e
+        HPCheck?.Invoke(this, args);
     }
 }

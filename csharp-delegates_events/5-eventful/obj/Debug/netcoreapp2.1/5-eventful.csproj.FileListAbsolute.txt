@@ -1,0 +1,11 @@
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/netcoreapp2.1/5-eventful.deps.json
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/netcoreapp2.1/5-eventful.runtimeconfig.json
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/netcoreapp2.1/5-eventful.runtimeconfig.dev.json
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/netcoreapp2.1/5-eventful.dll
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/netcoreapp2.1/5-eventful.pdb
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/netcoreapp2.1/5-eventful.csprojAssemblyReference.cache
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/netcoreapp2.1/5-eventful.csproj.CoreCompileInputs.cache
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/netcoreapp2.1/5-eventful.AssemblyInfoInputs.cache
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/netcoreapp2.1/5-eventful.AssemblyInfo.cs
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/netcoreapp2.1/5-eventful.dll
+/home/romain/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/netcoreapp2.1/5-eventful.pdb
